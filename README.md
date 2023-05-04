@@ -14,10 +14,32 @@
        alt="snake" /></a>
 </div>
 
-Here are some ideas to get you started:
+
+About me:
 
 - 🌱 I’m currently learning web programming
-- 👯 I’m looking to collaborate on web projects focused in javascript, css, html and react
+
+- 👯 I’m looking to collaborate on web projects focused in **Javascript, CSS, HTML, React, SQL, NODE.JS**
+
 - 🤔 I’m looking for help with to improve my skills
+
 - 💬 Ask me about everything
+
+- 📫 Feel free to reach me out **felipe.raindo+dev@gmail.com**
+
 - ⚡ Fun fact: I love to walk around without a destination.
+
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know 👨 🏻‍ 💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux, git, github, vscode, html, css, bootstrap, js, react, redux, docker, mysql, nodejs, shell&perline=14" />
+  </a>
+</p>
