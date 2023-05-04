@@ -43,3 +43,10 @@ About me:
     <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,html,css,bootstrap,js,react,redux,jest,docker,mysql,nodejs,regex,stackoverflow&perline=14" />
   </a>
 </p>
+
+<div align="center">
+  <a href="https://github.com/feliperaindo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feliperaindo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperaindo&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<br>
