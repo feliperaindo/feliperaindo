@@ -36,7 +36,7 @@ Relevant informations about me:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,html,css,bootstrap,js,react,redux,jest,docker,mysql,nodejs,ts,sequelize,mysql,express,regex,stackoverflow&perline=14" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,html,css,bootstrap,js,react,redux,jest,docker,mysql,nodejs,ts,sequelize,express,regex,python,stackoverflow&perline=14" />
   </a>
 </p>
 
